@@ -1,0 +1,1 @@
+java -jar Laboratory_Mgmt_Sys.jar
